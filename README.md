@@ -1,6 +1,8 @@
 # :shopping: OzBargain Alert tool
-Displays and alerts deals off the website Ozbargain.com.au
+Command line tool that displays and alerts deals from ozbargain.com.au (within a cost range)
 ## Setup
 1. Install Python 3+ from [here](https://www.python.org/downloads/) (make sure you click add python to PATH)
 2. Run setup.cmd file as admin
 3. Run OZBAlert.py
+## Notes
+"alert.wav" can be changed to any other .wav file for a custom alert tone
