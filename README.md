@@ -5,4 +5,5 @@ Command line tool that displays and alerts deals from ozbargain.com.au (within a
 2. Run setup.cmd file as admin
 3. Run OZBAlert.py
 ## Notes
-"alert.wav" can be changed to any other .wav file for a custom alert tone
+* Block.txt is a list of topics that wont be displayed.
+* "alert.wav" can be changed to any other .wav file for a custom alert tone
